@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>Proyecto</title>
+</head>
+<style type="text/css">
+		body{
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: center;
+			background-attachment: fixed;
+			background-color: F7D4B8;
+		}
+	</style>
+<body background="C:\Users\User\Downloads\itzel\Proyecto Final_HTML\IMAGENES\montaña.jpg" text="FDF8F4" 
+leftmargin="15%" topmargin="5%" marginheight="5%" marginwidth="15%">
+
+<h1 align="center" size="10">TikTok y su influncia<br>
+		 en los jóvenes</h1>
+<audio src="C:\Users\User\Downloads\itzel\Proyecto Final_HTML\AUDIO\sweet-boi-chevy-traducido-al-espanol.mp3" autoplay controls></audio>
+<img src="C:\Users\User\Downloads\itzel\Proyecto Final_HTML\IMAGENES\tiktok.png" align="left"
+ hspace="20 vspace="20" width="500" height="395">
+
+<table>
+<tr>
+	<td><FONT COLOR="6966FC"><h3>Ttiktok es una<FONT COLOR ="#070649"><strong> aplicacion </strong></FONT>
+que se ha vuelto muy popular 
+desde el inicio de la pandemia, pues si bien sabemos que no hace mas de dos años cambio su nombre de<br>
+ Misucally a Tiktok, esta<FONT COLOR ="#070649"><strong>  comenzo a crecer de manera protuberante</strong></FONT>
+ con sus recientes ususarios en casa, <br>
+pues el haer vdeos y ver<FONT COLOR ="#070649"><strong>  videos tan cortos</strong></FONT>  hace que a mas quenge te guste usar la aplicacion, en especial<br>
+ a los adolescentes.</h3></FONT></td>
+</tr>
+</table><br><br>
+
+<p align="right"><h1><FONT COLOR ="#FFFFFF" ><b>Un app que engancha</b></FONT></h1></p>
+<p><h3><FONT COLOR="#FFFFFF">Todas las redes sociales están hechas para gustar, pero también
+ para captar la atención del menor,
+ <FONT COLOR="#6966FC"><b>Tintentando que éste pase la mayor parte del tiempo posible navegando</b></FONT> en ellas.<br>
+
+<FONT COLOR="#6966FC"><b>“Lo que no se nos puede olvidar es que Tik Tok ha sido creada desde sus inicios 
+para ser adictiva”,</b></FONT> resalta la psicóloga María Guerrero, quien nos enumera algunas de las consecuencias 
+psicológicas que pueden tener para los adolescentes:<br>
+
+<ul type="circle">
+<li> <FONT COLOR="#6966FC"><b>Baja autoestima:</b></FONT> Muchas adolescentes ya pueden acceder a esta red social, “por lo que
+ tenemos a niñas de esa edad viendo vídeos de niñas hipersexualizadas de manera muy temprana
+ para llamar más la atención y atraer más seguidores”, lo que tiene unas consecuencias devastadoras 
+para su autoestima. Al final, conforman su identidad en base a los ‘me gusta’ que logran.</li><br>
+
+<li>  <FONT COLOR="#6966FC"><b>Bajo rendimiento academico:</b></FONT> En muchas ocasiones, 
+el abuso de las redes sociales se traduce
+ en poco rendimiento escolar porque suelen dormir menos horas y van somnolientos a clase.</li><br>
+
+<li><FONT COLOR="#6966FC"><b>Problemas de atención y distrracción</b></FONT></li><br>
+
+<li><FONT COLOR="#6966FC"><b>Sedentarismo:</b></FONT>ya que se pueden pasar un montón 
+de horas usando el móvil.</li></h3></FONT></p></ul>
+<br>
+<br>
+<table align="center" width="500" height="500">
+<caption><h2>Los tres videos e influencers mas virales en México</h2> </caption>
+<tr>
+	<td  align="center" ><img src="C:\Users\User\Downloads\itzel\Proyecto Final_HTML\IMAGENES\zerwa.jpg" width="310" 
+height="400" ></td>
+	<td  align="center">
+ <img src="C:\Users\User\Downloads\itzel\Proyecto Final_HTML\IMAGENES\ojos.jpg" width="310" 
+height="400"></td>
+	<td  align="center"><img src="C:\Users\User\Downloads\itzel\Proyecto Final_HTML\IMAGENES\kim.jpg"  
+width="310"  height="400"></td>
+</tr>
+</table>
+<br>
+<br>
+<marquee><FONT COLOR="#FFFFFF"><i><h2>Gracias por visitar la página<h2></i></FONT></marquee>
+
+
+
+</body>
+</html>
